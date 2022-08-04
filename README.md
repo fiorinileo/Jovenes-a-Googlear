@@ -8,6 +8,11 @@ Inspirados en las ocasionales veces en las que Google modifica visualmente su si
 - [Leonardo Fiorini](https://github.com/fiorinileo)
 - [Franco Palmieri](https://github.com/francopalmieri)
 
+- [Tatiana Talento](https://github.com/talentot)
+- [Victoria Rodriguez](https://github.com/victoria233)
+- [Guadalupe Wetzel](https://github.com/Guadalupew)
+- [Rodolfo Pérez](https://github.com/Rolex96) 
+
 
 ## Estado del proyecto
 Nos encontramos en la primera fase del proyecto, lo comenzaremos a desarrollar por separado cada uno encargándose del contenido y estilo de su sección en ramas independientes para posteriormente unirlas y en el caso de que no hayan conflictos revelarlas a la rama principal.
