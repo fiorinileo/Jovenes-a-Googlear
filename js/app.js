@@ -8,3 +8,4 @@ let buscarf = function(){
     window.open('https://www.google.com/search?q='+busqueda);
 };
 
+
