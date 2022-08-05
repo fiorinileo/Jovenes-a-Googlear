@@ -9,7 +9,7 @@ html{
     font-family: Roboto,Arial,sans-serif;
 }
 body{
-    background-color: #fff;
+    background-color: pink;
     height: 100vh;
 
 }
@@ -23,7 +23,7 @@ main{
 }
 a{
     text-decoration: none;
-    color: #0d0d0d;
+    color: rgb(187, 0, 0);
 }
 li{
     list-style: none;
@@ -99,7 +99,7 @@ main div{
     padding: 0px 30px;
     width: 550px;
     height: 40px;
-    background-color: #eeeeee;
+    background-color: rgb(130, 110, 148);
     border-radius: 20px;
     border: none;
     box-shadow: 1px 2px 7px -1px gray ;
@@ -152,9 +152,9 @@ width: 100%;
 .container-busqueda-interior{
     padding: 18px 30px;
     height: 70px;
-    background-color: white;
+    background-color: rgb(97, 0, 97);
     border-radius: 4px;
-    color: #000000;
+    color: aquamarine;
     font-family: arial,sans-serif;
     font-size: 14px;
     margin: 10px 4px;
@@ -182,5 +182,3 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
-
-    
